@@ -63,9 +63,11 @@ Descriptive Steps for Newbies:
     Open Pod Xcode File:
         Open the pod Xcode file at Growthbook-Mobile -> ios -> Pods -> Pods.xcodeproj.
 ![Alt text](readmeimgs/Pods_location.png)
+
     Configure React-Codegen:
         Scroll down and click on React-Codegen. Under Minimum Deployments, ensure iOS version is set to 12.4. If not, update it. Reference: React Native Issue #34106. https://github.com/facebook/react-native/issues/34106
-![Alt text](image-1.png)
+
+![Alt text](readmeimgs/react-codegen-pods-view.png)
     
     Retry Yarn iOS:
         Retry yarn ios. If issues persist, follow these steps.
