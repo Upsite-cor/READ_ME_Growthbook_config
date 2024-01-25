@@ -90,7 +90,7 @@ If issues persist, feel free to contact bcortes13@csudh.edu for assistance.
 
 <h1>
 Configuring Growthbook for Mac M1 - Readme
-For Android Developers <br>
+For Android Developers Guide<br>
 Updated: 1/25/2024
 </h1>
 
