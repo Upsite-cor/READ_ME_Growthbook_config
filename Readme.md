@@ -98,7 +98,7 @@ Updated: 1/25/2024
 
 Follow the React Native documentation for environment setup by visiting this [forum](https://reactnative.dev/docs/environment-setup). Ensure that you choose macOS as the Development OS and Target OS for Android.
 
-Verify your setup by creating a new project named AwesomeProject using the default React template. If successful, proceed to the next step. If you encounter any errors, resolve them before moving on.
+Verify your setup by creating a new project named AwesomeProject using the default React template. If successful, you should see the error below and proceed to the next step. If you encounter any errors, resolve them before moving on until you see the error below.
 ![Alt text](readmeimgs/ErrorAndroidDev.png)
 
 
