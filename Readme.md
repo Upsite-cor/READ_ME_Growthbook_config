@@ -1,4 +1,5 @@
-<h1>Growth-Book Configuration Guide for Mac M1 and iOS. <br>Developer's guide only</h1>
+<h1>Growth-Book Configuration Guide for Mac M1 and iOS. <br>
+Developer's guide only 1/24/2024</h1>
 
 Welcome, Programmers!
 
