@@ -1,5 +1,6 @@
 <h1>Growth-Book Configuration Guide for Mac M1 and iOS. <br>
-Developer's guide only 1/24/2024</h1>
+Developer's guide only<br> 
+Updated: 1/24/2024</h1>
 
 Welcome, Programmers!
 
@@ -84,3 +85,29 @@ Descriptive Steps for Newbies:
 
 If issues persist, feel free to contact bcortes13@csudh.edu for assistance.
 
+
+
+
+<h1>
+Configuring Growthbook for Mac M1 - Readme
+For Android Developers <br>
+Updated: 1/25/2024
+</h1>
+
+<h2>Step 1: Set Up React Native Environment</h2>
+
+Follow the React Native documentation for environment setup by visiting this [forum](https://reactnative.dev/docs/environment-setup). Ensure that you choose macOS as the Development OS and Target OS for Android.
+
+Verify your setup by creating a new project named AwesomeProject using the default React template. If successful, proceed to the next step. If you encounter any errors, resolve them before moving on.
+![Alt text](readmeimgs/ErrorAndroidDev.png)
+
+
+<h2>Step 2: Update build.gradle</h2>
+
+Navigate to the android directory and open the build.gradle file. Ensure that the source code below matches the content inside your own build.gradle. Copy the provided source code exactly into your build.gradle.
+![Alt text](readmeimgs/BuildGradleAndroid.png)
+
+
+<h2>Step 3: Run the Project</h2>
+
+Attempt to run your project again. If you encounter any issues, please contact me at bcortes13@csudh.edu for assistance.
