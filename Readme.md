@@ -113,7 +113,7 @@ Navigate to the android directory and open the build.gradle file. Ensure that th
     Then inside local.properties add this line of text
     [sdk.dir = /Users/USERNAME/Library/Android/sdk]
 <h2>Step 4: make sure your zprofile looks like this: </h2>
-    ![image](https://github.com/Upsite-cor/READ_ME_Growthbook_config/assets/76449648/c6cb87c4-bcf8-4136-ba4d-76f8f06d016d)
+    ![image]([https://cdn.discordapp.com/attachments/1182082568506589286/1200919177611968612/image.png?ex=65c7ee23&is=65b57923&hm=3b9c37f5ff2cabcd95e14ce43bfb7f75c88c85df8b594f1e0713c42a4e3d3ef4&)
 
 
 <h2>Step 4: Run the Project</h2>
