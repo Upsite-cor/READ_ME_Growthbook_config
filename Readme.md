@@ -108,6 +108,12 @@ Navigate to the android directory and open the build.gradle file. Ensure that th
 ![Alt text](readmeimgs/BuildGradleAndroid.png)
 
 
-<h2>Step 3: Run the Project</h2>
+<h2>Step 3: create and modify local.properties</h2>
+    After this step create a file that is labled as local.properties in the android directory. 
+    Then inside local.properties add this line of text
+    [sdk.dir = /Users/USERNAME/Library/Android/sdk]
+
+
+<h2>Step 4: Run the Project</h2>
 
 Attempt to run your project again. If you encounter any issues, please contact me at bcortes13@csudh.edu for assistance.
