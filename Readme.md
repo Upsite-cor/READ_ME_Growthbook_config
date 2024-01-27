@@ -1,4 +1,4 @@
-<h1>Growth-Book Configuration Guide for Mac M1 and iOS. <br>
+![image](https://github.com/Upsite-cor/READ_ME_Growthbook_config/assets/76449648/4e3312b8-6fec-4765-9013-2f2aca534416)<h1>Growth-Book Configuration Guide for Mac M1 and iOS. <br>
 IOS Developer's guide only<br> 
 Updated: 1/24/2024</h1>
 
@@ -112,6 +112,8 @@ Navigate to the android directory and open the build.gradle file. Ensure that th
     After this step create a file that is labled as local.properties in the android directory. 
     Then inside local.properties add this line of text
     [sdk.dir = /Users/USERNAME/Library/Android/sdk]
+<h2>Step 4: make sure your zprofile looks like this: </h2>
+    ![image](https://github.com/Upsite-cor/READ_ME_Growthbook_config/assets/76449648/c6cb87c4-bcf8-4136-ba4d-76f8f06d016d)
 
 
 <h2>Step 4: Run the Project</h2>
